@@ -1,6 +1,6 @@
 # Awesome-Crypto-Treasury-Management
 
-# Top Crypto Treasury Management Tools Ecosystem
+## Top Crypto Treasury Management Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Multi-Sig Wallets, On-Chain Treasury Operations, Crypto Accounting, Policy Controls, Payments & Institutional Custody*
 **Last updated: August 2026**
