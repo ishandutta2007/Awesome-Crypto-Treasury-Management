@@ -21,20 +21,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier Limits |
-|----------|-------------|---------|------------------|
-| **[Coinshift](https://coinshift.xyz/)** | Treasury management platform built on Safe infrastructure, offering multi-sig operations, spending policies, accounting, and team collaboration features for crypto organizations. | Enterprise Quote Required | No free trial; demo only |
-| **[Request Finance](https://www.request.finance/)** | Crypto invoicing, payroll, expenses, and accounting platform that supports multi-chain payments and integrates with treasury workflows. | Starts at $300/month | Free plan for freelancers/contractors; 30-day free trial for paid plans |
-| **[Bitwave](https://www.bitwave.io/)** | Enterprise crypto accounting, tax, and treasury operations platform focused on compliance, reconciliation, and financial reporting. | Enterprise Quote Required | No free trial; demo only |
-| **[Cryptio](https://cryptio.co/)** | Institutional-grade crypto accounting and treasury platform with automated bookkeeping, audit trails, and ERP integrations. | Starts around $449/month (estimated) | No free trial; demo only |
-| **[Integral](https://integral.xyz/)** | On-chain treasury and DeFi operations platform providing portfolio management, execution, and risk tools for crypto treasuries. | Enterprise Quote Required | No free trial; demo only |
-| **[Fordefi](https://www.fordefi.com/)** | Institutional self-custody platform with MPC, policy engine, transaction simulation, and multi-chain support for secure treasury operations. | Enterprise Quote Required | No free trial; demo only |
-| **[Fireblocks](https://www.fireblocks.com/)** | Leading enterprise digital asset platform using MPC custody, policy controls, network connectivity, and treasury workflows for institutions. | Starts around $999/month (Essentials plan) | Developer Sandbox (Testnet only) |
-| **[Safe](https://safe.global/)** (commercial services & ecosystem) | The dominant smart account / multi-sig infrastructure (with enterprise tooling and apps built on top) widely used for organizational treasuries. | Free for core contracts; API from €199/month | 50K API calls/month (Builder tier) |
-| **[Mesh](https://www.meshconnect.com/)** | Connectivity and payments infrastructure that helps move and manage crypto assets across platforms and institutions. | Enterprise Quote Required | Free Sandbox environment |
-| **[Parfin](https://www.parfin.io/)** | Institutional digital asset platform offering custody, trading, and treasury management solutions, particularly strong in certain regions. | Enterprise Quote Required | No free trial; demo only |
-| **[Den](https://www.den.finance/)** | Treasury operations layer built on Safe, providing advanced transaction simulation, accounting, signer coordination, and policy tools. | Free to use (Network fees apply) | Network gas fees only |
-| **[Squads](https://squads.so/)** (protocol + commercial) | Leading multi-sig and treasury management solution for the Solana ecosystem. | Starts at $49/month (Business Plan) | Network fees only for core usage |
+| Platform | Description | Pricing | Free Tier Limits | Size (Valuation/Funding) |
+|----------|-------------|---------|------------------|--------------------------|
+| **[Fireblocks](https://www.fireblocks.com/)** | Leading enterprise digital asset platform using MPC custody, policy controls, network connectivity, and treasury workflows for institutions. | Starts around $999/month (Essentials plan) | Developer Sandbox (Testnet only) | $8B Valuation |
+| **[Mesh](https://www.meshconnect.com/)** | Connectivity and payments infrastructure that helps move and manage crypto assets across platforms and institutions. | Enterprise Quote Required | Free Sandbox environment | $1B Valuation |
+| **[Safe](https://safe.global/)** (commercial services & ecosystem) | The dominant smart account / multi-sig infrastructure (with enterprise tooling and apps built on top) widely used for organizational treasuries. | Free for core contracts; API from €199/month | 50K API calls/month (Builder tier) | ~$1B Valuation / $100M+ Funding |
+| **[Fordefi](https://www.fordefi.com/)** | Institutional self-custody platform with MPC, policy engine, transaction simulation, and multi-chain support for secure treasury operations. | Enterprise Quote Required | No free trial; demo only | >$100M Valuation |
+| **[Cryptio](https://cryptio.co/)** | Institutional-grade crypto accounting and treasury platform with automated bookkeeping, audit trails, and ERP integrations. | Starts around $449/month (estimated) | No free trial; demo only | $71M+ Funding |
+| **[Squads](https://squads.so/)** (protocol + commercial) | Leading multi-sig and treasury management solution for the Solana ecosystem. | Starts at $49/month (Business Plan) | Network fees only for core usage | $42.9M Funding |
+| **[Parfin](https://www.parfin.io/)** | Institutional digital asset platform offering custody, trading, and treasury management solutions, particularly strong in certain regions. | Enterprise Quote Required | No free trial; demo only | $38M Funding |
+| **[Bitwave](https://www.bitwave.io/)** | Enterprise crypto accounting, tax, and treasury operations platform focused on compliance, reconciliation, and financial reporting. | Enterprise Quote Required | No free trial; demo only | $22.3M Funding |
+| **[Coinshift](https://coinshift.xyz/)** | Treasury management platform built on Safe infrastructure, offering multi-sig operations, spending policies, accounting, and team collaboration features for crypto organizations. | Enterprise Quote Required | No free trial; demo only | $17.5M Funding |
+| **[Integral](https://integral.xyz/)** | On-chain treasury and DeFi operations platform providing portfolio management, execution, and risk tools for crypto treasuries. | Enterprise Quote Required | No free trial; demo only | $8.5M Funding |
+| **[Den](https://www.den.finance/)** | Treasury operations layer built on Safe, providing advanced transaction simulation, accounting, signer coordination, and policy tools. | Free to use (Network fees apply) | Network gas fees only | $7.3M Funding |
+| **[Request Finance](https://www.request.finance/)** | Crypto invoicing, payroll, expenses, and accounting platform that supports multi-chain payments and integrates with treasury workflows. | Starts at $300/month | Free plan for freelancers/contractors; 30-day free trial for paid plans | $5.5M+ Funding |
 
 ## Open-Source GitHub Projects
 - **[Safe](https://github.com/safe-global)** (formerly Gnosis Safe)  
