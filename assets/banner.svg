@@ -1,31 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-    <defs>
-        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#141E30" />
-            <stop offset="100%" stop-color="#243B55" />
-            <animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite" />
-        </linearGradient>
-        <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-            <stop offset="0%" stop-color="#4facfe" stop-opacity="0.8" />
-            <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
-        </radialGradient>
-    </defs>
-    
-    <rect width="800" height="200" fill="url(#bg)" rx="15" ry="15" />
-    
-    <circle cx="100" cy="50" r="40" fill="url(#glow)">
-        <animate attributeName="cy" values="50;150;50" dur="8s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="700" cy="150" r="60" fill="url(#glow)">
-        <animate attributeName="cy" values="150;50;150" dur="12s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6s" repeatCount="indefinite" />
-    </circle>
-    
-    <text x="400" y="100" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">
-        Awesome Crypto Treasury Management
-    </text>
-    <text x="400" y="140" font-family="Arial, sans-serif" font-size="18" fill="#a0a0a0" text-anchor="middle">
-        The top curated list of SaaS and Open-Source Treasury Tools
-    </text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1A2980">
+        <animate attributeName="stop-color" values="#1A2980;#26D0CE;#1A2980" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#26D0CE">
+        <animate attributeName="stop-color" values="#26D0CE;#1A2980;#26D0CE" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="20" fill="url(#bg)"/>
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
+    Crypto Treasury Management
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
+  </text>
+  <text x="400" y="150" font-family="Arial, sans-serif" font-size="20" fill="#f0f0f0" text-anchor="middle" dominant-baseline="middle">
+    Curated List of SaaS Products &amp; Open-Source Projects
+  </text>
+  <circle cx="100" cy="100" r="10" fill="#ffffff">
+    <animate attributeName="cy" values="90;110;90" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="700" cy="100" r="10" fill="#ffffff">
+    <animate attributeName="cy" values="110;90;110" dur="3s" repeatCount="indefinite" />
+  </circle>
 </svg>
